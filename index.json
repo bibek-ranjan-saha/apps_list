@@ -1,3 +1,8 @@
-[{"title" : "Magnetoo Live",
-"app_logo" : "",
-"description" : "This app show live emf reading using on device magnetometer sensor"}]
+[
+    {
+    "title" : "Magnetoo Live",
+    "app_logo" : "",
+    "description" : "This app show live emf reading using on device magnetometer sensor",
+    "link" : "https://play.google.com/store/apps/details?id=com.crazylabs.magnetoo_live"
+    }
+]
